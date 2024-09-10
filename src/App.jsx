@@ -1,6 +1,6 @@
 import ButtonGradient from "./assets/svg/ButtonGradient";
 
-import { Button, Header } from "./components";
+import { Header } from "./components";
 
 const App = () => {
   return (
