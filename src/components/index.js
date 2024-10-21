@@ -1,5 +1,5 @@
 import Header from "./Header";
 import Hero from "./Hero";
-import Benefits from "./Benefits";
+import Features from "./Features";
 
-export { Header, Hero, Benefits };
+export { Header, Hero, Features };

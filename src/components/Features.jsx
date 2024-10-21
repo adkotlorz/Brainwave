@@ -7,7 +7,7 @@ import ClipPath from "../assets/svg/ClipPath";
 
 import { benefits } from "../constants";
 
-const Benefits = () => {
+const Features = () => {
   return (
     <Section id="features">
       <div className="container relative z-2">
@@ -66,4 +66,4 @@ const Benefits = () => {
   );
 };
 
-export default Benefits;
+export default Features;
